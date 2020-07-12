@@ -1,4 +1,4 @@
-<img src="https://github.com/gordoncolaco/gordoncolaco/blob/master/img/hero.png" alt="Hero image">
+<img src="https://github.com/gordoncolaco/gordoncolaco.github.io/blob/master/img/hero.png" alt="Hero image">
 
 <!--
 **gordoncolaco/gordoncolaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
